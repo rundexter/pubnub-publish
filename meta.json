@@ -1,0 +1,17 @@
+{
+    "inputs"  : [{
+        "id":"subscribe_key",
+        "title": "Subscribe Key"
+    }, {
+        "id":"publish_key",
+        "title": "Publish Key"
+    }, {
+        "id" : "message",
+        "title": "Message to Publish"
+    }, {
+        "id" : "channel",
+        "title" : "Channel"
+    }],
+    "outputs" : [ ],
+    "title"   : "PubNub Publish" 
+}
